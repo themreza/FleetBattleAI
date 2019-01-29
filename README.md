@@ -1,5 +1,5 @@
 # FleetBattleAI
-An AI for the popular mobile game Fleet Battle through image analysis using Python.
+An AI for the popular mobile game Fleet Battle through machine vision and image analysis using Python.
 
 ## Description:
 <img align="right" src="board.png">
